@@ -1,0 +1,22 @@
+{
+  "name": "schdeuler",
+  "version": "1.0.0",
+  "description": "Bonus project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushPanday1/SCHDEULER.git"
+  },
+  "author": "Ayush Panday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushPanday1/SCHDEULER/issues"
+  },
+  "homepage": "https://github.com/AyushPanday1/SCHDEULER#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
